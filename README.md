@@ -1,25 +1,45 @@
 # CSE2201-Algorithm-Design-and-Analysis
-Welcome to the CSE2201 Algorithm Design and Analysis repository!
-This project contains lecture materials, problem solutions, and algorithm implementations in C++ (and sometimes Python) to support learning algorithm design and analysis.
+Algorithms
+📖 Overview
 
+Welcome to the Algorithms Repository!
+This project contains implementations of a wide range of Algorithms in C++.
+Each program is written with clarity and includes comments to help with understanding the logic and flow of the algorithm.
 
-🔹 Highlights
+✨ Features
 
+Implementation of major algorithm categories:
 
-Designed and analyzed efficient algorithms: Sorting, Searching, Recursion, Greedy, Dynamic Programming, and Graph Algorithms.
+Sorting Algorithms (Bubble Sort, Merge Sort, Quick Sort, etc.)
 
-Code written with clarity, comments, and modular structure for easy understanding.
+Searching Algorithms (Linear Search, Binary Search, etc.)
 
-Organized into folders by topic for professional maintainability.
+Recursion (Factorial, Fibonacci, Backtracking, etc.)
 
-Demonstrates algorithmic thinking, coding style, and academic rigor.
+Greedy Algorithms (Activity Selection, Huffman Coding, etc.)
 
+Divide and Conquer (Merge Sort, Binary Search, etc.)
 
+Dynamic Programming (Knapsack, Longest Common Subsequence, etc.)
 
-🔹 Technologies
+Graph Algorithms (BFS, DFS, Dijkstra, Kruskal, Prim, etc.)
 
-Language: C and C++.
+Mathematical Algorithms (GCD, Prime Numbers, Modular Arithmetic, etc.)
 
-Tools: Visual Studio Code, Code::Blocks, GCC/G++
+Clean and readable C++ code.
 
-Version Control: Git & GitHub
+Organized folder structure by algorithm type.
+
+Regular updates with new algorithms.
+
+🛠 Technologies Used
+
+Language: C++
+
+Compiler/IDE:
+
+Visual Studio Code
+
+Code::Blocks
+
+Any C++ Compiler
