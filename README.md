@@ -8,23 +8,23 @@ Each program is written with clarity and includes comments to help with understa
 
 ✨ Features
 
-1.Implementation of major algorithm categories:
+1. Implementation of major algorithm categories:
 
-2.Sorting Algorithms (Bubble Sort, Merge Sort, Quick Sort, etc.)
+2. Sorting Algorithms (Bubble Sort, Merge Sort, Quick Sort, etc.)
 
-3.Searching Algorithms (Linear Search, Binary Search, etc.)
+3. Searching Algorithms (Linear Search, Binary Search, etc.)
 
-4.Recursion (Factorial, Fibonacci, Backtracking, etc.)
+4. Recursion (Factorial, Fibonacci, Backtracking, etc.)
 
-5.Greedy Algorithms (Activity Selection, Huffman Coding, etc.)
+5. Greedy Algorithms (Activity Selection, Huffman Coding, etc.)
 
-6.Divide and Conquer (Merge Sort, Binary Search, etc.)
+6. Divide and Conquer (Merge Sort, Binary Search, etc.)
 
-7.Dynamic Programming (Knapsack, Longest Common Subsequence, etc.)
+7. Dynamic Programming (Knapsack, Longest Common Subsequence, etc.)
 
-8.Graph Algorithms (BFS, DFS, Dijkstra, Kruskal, Prim, etc.)
+8. Graph Algorithms (BFS, DFS, Dijkstra, Kruskal, Prim, etc.)
 
-9.Mathematical Algorithms (GCD, Prime Numbers, Modular Arithmetic, etc.)
+9. Mathematical Algorithms (GCD, Prime Numbers, Modular Arithmetic, etc.)
 
 Clean and readable C++ code.
 
@@ -37,9 +37,6 @@ Regular updates with new algorithms.
 Language: C++
 
 Compiler/IDE:
-
 Visual Studio Code
-
-Code::Blocks
-
-Any C++ Compiler
+,Code::Blocks
+ and Any C++ Compiler.
